@@ -66,31 +66,31 @@ let data =
 {
     "dates": {
         "day-1": {
-            "value": "test"
+            "value": "Kwiatuszki dla mojego kwiatuszka 🌹"
         },
         "day-2": {
-            "value": "test2"
+            "value": "Bon na wspólny, świąteczny film! 🎅"
         },
         "day-3": {
-            "value": "test"
+            "value": "Bon na basen! 🏊‍♀️"
         },
         "day-4": {
-            "value": "test2"
+            "value": "Bon na masaż! 💆‍♀️"
         },
         "day-5": {
-            "value": "test"
+            "value": "Bon naaa... 😏"
         },
         "day-6": {
-            "value": "test2"
+            "value": "Bon na Maczkaaa! 🍔"
         },
         "day-7": {
-            "value": "test"
+            "value": "Dzień na samorozwój! Przeczytaj artykół naukowy nie koniecznie o żywieniu 🧠"
         },
         "day-8": {
-            "value": "test2"
+            "value": "Trochę techniki! Stwórz świąteczną playlistę na Spotify i podziel się nią ze mną 🎵"
         },
         "day-9": {
-            "value": "test"
+            "value": "Dzień SPA! Wykorzystaj maseczki i odprę się 🧖‍♀️"
         },
         "day-10": {
             "value": "test2"
@@ -114,7 +114,7 @@ let data =
             "value": "test2"
         },
         "day-17": {
-            "value": "test"
+            "value": "Bon na sushi! 🍣"
         },
         "day-18": {
             "value": "test2"
@@ -135,9 +135,7 @@ let data =
             "value": "test"
         },
         "day-24": {
-            "value": "test2"
+            "value": "Dzisiaj zapraszam cię pod choinkę!"
         }
     }
 }
-
-console.log(data)
