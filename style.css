@@ -1,0 +1,117 @@
+body {
+    margin-left: 15%;
+    margin-right: 15%;
+    font-family: 'Lobster';
+    background-color: #fc182e;
+}
+
+.title {
+    margin-top: 10px;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
+
+.calendar-grid {
+    margin-top: 10px;
+    display: grid;
+
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: auto;
+    grid-gap: 1rem;
+
+    grid-template-areas:
+        "day13  day23  day19  day5  day14  day1"
+        "day15  day12  day4  day11  day18  day10"
+        "day6  day20  day9  day16  day2  day21"
+        "day7  day24  day17 day8  day22  day3";
+}
+
+.noClick {
+    pointer-events: none;
+    cursor: not-allowed; 
+}
+
+.day {
+    background-color: aqua;
+    aspect-ratio: 1;
+    cursor: pointer; 
+    font-size: 50px;
+    padding-left: 10px;
+}
+.day:hover {
+    background-color: gray;
+}
+
+.day-1 {
+    grid-area: day1;
+}
+.day-2 {
+    grid-area: day2;
+}
+.day-3 {
+    grid-area: day3;
+}
+.day-4 {
+    grid-area: day4;
+}
+.day-5 {
+    grid-area: day5;
+}
+.day-6 {
+    grid-area: day6;
+}
+.day-7 {
+    grid-area: day7;
+}
+.day-8 {
+    grid-area: day8;
+}
+.day-9 {
+    grid-area: day9;
+}
+.day-10 {
+    grid-area: day10;
+}
+.day-11 {
+    grid-area: day11;
+}
+.day-12 {
+    grid-area: day12;
+}
+.day-13 {
+    grid-area: day13;
+}
+.day-14 {
+    grid-area: day14;
+}
+.day-15 {
+    grid-area: day15;
+}
+.day-16 {
+    grid-area: day16;
+}
+.day-17 {
+    grid-area: day17;
+}
+.day-18 {
+    grid-area: day18;
+}
+.day-19 {
+    grid-area: day19;
+}
+.day-20 {
+    grid-area: day20;
+}
+.day-21 {
+    grid-area: day21;
+}
+.day-22 {
+    grid-area: day22;
+}
+.day-23 {
+    grid-area: day23;
+}
+.day-24 {
+    grid-area: day24;
+}
