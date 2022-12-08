@@ -93,25 +93,25 @@ let data =
             "value": "Wyjdź na spacer i szukaj oznak zimy, zrób zdjęcie i prześlij do mnie 📷"
         },
         "day-10": {
-            "value": "test2"
+            "value": "Wróć do niedokończonej książki, albo zacznij nową 📖"
         },
         "day-11": {
-            "value": "test"
+            "value": "Zaplanuj nam sylwestra 🎇"
         },
         "day-12": {
-            "value": "test2"
+            "value": "Nagraj jak robisz Bottle Flip Challenge. Wygrywasz dopiero jak uda ci się postawić butelkę w pierwszych 3 ruchach, ale twoja ilość prób nagrań jest nieograniczona 🫶"
         },
         "day-13": {
-            "value": "test"
+            "value": "Pobudźmy twój mózg! Napisz odręcznie opowiadanie na długość kartki A5 (ciekawe jak rozwiniesz swoją kreatywność) 🖋️"
         },
         "day-14": {
-            "value": "test2"
+            "value": "Zrób sobie i Majlikowi świąteczną sesję 📸"
         },
         "day-15": {
-            "value": "test"
+            "value": "Zrób coś dla siebie! Poro"
         },
         "day-16": {
-            "value": "test2"
+            "value": "Nagraj świątecznego tik-toka (na instagramie) i prześlij do mnie 🎥"
         },
         "day-17": {
             "value": "Bon na sushi! 🍣"
