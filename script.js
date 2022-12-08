@@ -90,7 +90,7 @@ let data =
             "value": "Trochę techniki! Stwórz świąteczną playlistę na Spotify i podziel się nią ze mną 🎵"
         },
         "day-9": {
-            "value": "Dzień SPA! Wykorzystaj maseczki i odprę się 🧖‍♀️"
+            "value": "Wyjdź na spacer i szukaj oznak zimy, zrób zdjęcie i prześlij do mnie 📷"
         },
         "day-10": {
             "value": "test2"
@@ -120,7 +120,7 @@ let data =
             "value": "test2"
         },
         "day-19": {
-            "value": "test"
+            "value": "Dzień SPA! Wykorzystaj maseczki i odpręż się 🧖‍♀️"
         },
         "day-20": {
             "value": "test2"
