@@ -108,7 +108,7 @@ let data =
             "value": "Zrób sobie i Majlikowi świąteczną sesję 📸"
         },
         "day-15": {
-            "value": "Zrób coś dla siebie! Poro"
+            "value": "Zrób coś dla siebie! Porozciągaj się 😸"
         },
         "day-16": {
             "value": "Nagraj świątecznego tik-toka (na instagramie) i prześlij do mnie 🎥"
