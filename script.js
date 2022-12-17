@@ -117,22 +117,22 @@ let data =
             "value": "Bon na sushi! 🍣"
         },
         "day-18": {
-            "value": "test2"
+            "value": "Idź na spacer i znajdź udekorowany świątecznie dom 🎄"
         },
         "day-19": {
-            "value": "Dzień SPA! Wykorzystaj maseczki i odpręż się 🧖‍♀️"
+            "value": "Stwórz świąteczny rysunek na iPadzie 👩‍🎨"
         },
         "day-20": {
-            "value": "test2"
+            "value": "Naucz się mówić „Wesołych Świąt” w kilku językach i nagraj się 👅"
         },
         "day-21": {
             "value": "test"
         },
         "day-22": {
-            "value": "test2"
+            "value": "Ulep bałwana! ☃️"
         },
         "day-23": {
-            "value": "test"
+            "value": "Dzień SPA! Wykorzystaj maseczki i odpręż się 🧖‍♀️"
         },
         "day-24": {
             "value": "Dzisiaj zapraszam cię pod choinkę!"
