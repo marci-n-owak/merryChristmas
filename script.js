@@ -129,10 +129,10 @@ let data =
             "value": "test"
         },
         "day-22": {
-            "value": "Ulep bałwana! ☃️"
+            "value": "Dzień SPA! Wykorzystaj maseczki i odpręż się 🧖‍♀️"
         },
         "day-23": {
-            "value": "Dzień SPA! Wykorzystaj maseczki i odpręż się 🧖‍♀️"
+            "value": "Ulep bałwana! ☃️"
         },
         "day-24": {
             "value": "Dzisiaj zapraszam cię pod choinkę!"
