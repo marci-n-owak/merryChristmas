@@ -126,7 +126,7 @@ let data =
             "value": "Naucz się mówić „Wesołych Świąt” w kilku językach i nagraj się 👅"
         },
         "day-21": {
-            "value": "test"
+            "value": "Trochę rozrywki! Zagrajmy w kalambury 🎲"
         },
         "day-22": {
             "value": "Dzień SPA! Wykorzystaj maseczki i odpręż się 🧖‍♀️"
