@@ -135,7 +135,7 @@ let data =
             "value": "Ulep bałwana! ☃️"
         },
         "day-24": {
-            "value": "Dzisiaj zapraszam cię pod choinkę!"
+            "value": "Dzisiaj zapraszam cię pod choinkę! 🎄🎁🥰"
         }
     }
 }
